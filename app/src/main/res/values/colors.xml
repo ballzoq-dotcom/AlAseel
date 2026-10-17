@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="leather">#2A1012</color>
+    <color name="leather_deep">#1D0B0C</color>
+    <color name="cream">#F2E8D8</color>
+    <color name="cream_muted">#CDBCA4</color>
+    <color name="brass">#C9A35B</color>
+    <color name="brass_ink">#241606</color>
+</resources>

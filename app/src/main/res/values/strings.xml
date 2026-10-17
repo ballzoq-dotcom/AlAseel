@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">الأصيل</string>
+    <string name="offline_title">لا يوجد اتصال بالإنترنت</string>
+    <string name="offline_body">صفحة الحجز تحتاج إلى إنترنت. تحقق من الاتصال ثم أعد المحاولة.</string>
+    <string name="retry">إعادة المحاولة</string>
+    <string name="no_app_found">لا يوجد تطبيق لفتح هذا الرابط</string>
+</resources>
